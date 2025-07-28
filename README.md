@@ -69,8 +69,8 @@ I'm a curious developer who loves building creative, scalable, and impactful dig
 
 ### 📈 GitHub Stats
 <p>
-  <img align="center" src="https://yashwanth535.vercel.app/api/stats.svg" alt="yashwanth535" width="600"/>
+  <img align="center" src="https://yashwanth535.vercel.app/api/stats.svg" alt="yashwanth535" width="450"/>
 </p>
 <p>
-  <img align="center" src="https://yashwanth535.vercel.app/api/streak.svg" alt="yashwanth535" width="600"/>
+  <img align="center" src="https://yashwanth535.vercel.app/api/streak.svg" alt="yashwanth535" width="450"/>
 </p>
