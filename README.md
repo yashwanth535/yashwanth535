@@ -1,16 +1,6 @@
 <h1 align="center">Hi 👋, I'm YASHWANTH MUNIKUNTLA</h1>
 <h3 align="center">A passionate full-stack developer and designer from India 🇮🇳</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yashwanth535&label=Profile%20views&color=0e75b6&style=flat" alt="yashwanth535" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=yashwanth535&theme=onestar&margin-w=15&margin-h=15" alt="yashwanth535 trophies" />
-  </a>
-</p>
-
 ---
 
 ### 🧠 About Me
@@ -42,19 +32,16 @@ I'm a curious developer who loves building creative, scalable, and impactful dig
 
 <p align="left">
   <a href="https://linkedin.com/in/yashwanth-munikuntla" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+    <img src="assets/linkedin.svg" height="30" width="40" />
   </a>
   <a href="https://instagram.com/yashwanth_munikuntla" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-  </a>
-  <a href="https://www.codechef.com/users/yashwanth535" target="blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40" />
+    <img src="assets/instagram.svg" height="30" width="40" />
   </a>
   <a href="https://codeforces.com/profile/yashwanth9966" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40" />
+    <img src="assets/codeforces.png" height="30" width="30" />
   </a>
   <a href="https://leetcode.com/yashwanth535" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+    <img src="assets/leetcode.png" height="30" width="30" />
   </a>
 </p>
 
@@ -68,7 +55,6 @@ I'm a curious developer who loves building creative, scalable, and impactful dig
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
