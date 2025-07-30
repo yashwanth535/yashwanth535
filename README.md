@@ -13,21 +13,21 @@ I'm a curious developer who loves building creative, scalable, and impactful dig
 - 📖 Apart from coding, I love reading novels — my favorites include _"It Ends With Us"_ and _"It Starts With Us"_ by Colleen Hoover.
 - 🎯 Passionate about merging technology and design to solve real-world problems.
 - ✉️ Reach me at: **yashwanthmunikuntla@gmail.com**
+---
+
+### 🚀 Major Projects
+
+| Project         | Description                                                               | Own Domain | Vercel Demo | Docker Deployment | Frontend Repo | Backend Repo |
+|----------------|---------------------------------------------------------------------------|------------|--------------|--------------------|----------------|---------------|
+| 🖨️ **PRINTEASE**        | Realtime printing platform with order tracking and PDF management.     | [printease.yashwanth.site](https://printease.yashwanth.site/) | [Vercel](https://print-ease-frontend.vercel.app) | [Render](https://printease-docker-full-stack.onrender.com) | [Frontend](https://github.com/yashwanth535/PrintEase-frontend) | [Backend](https://github.com/yashwanth535/PrintEase-backend) |
+| 🔄 **InShareX**          | A secure file-sharing service like Send Anywhere.                      | [insharex.yashwanth.site](https://insharex.yashwanth.site/) | [Vercel](https://insharex-frontend.vercel.app) | - | [Frontend](https://github.com/yashwanth535/insharex-frontend) | [WebSocket](https://github.com/yashwanth535/insharex-webSocket) |
+| 📊 **Kriya**             | Cron Job Manager for automation and workflow scheduling.              | [kriya.yashwanth.site](https://kriya.yashwanth.site/) | [Vercel](https://kriya-frontend-ten.vercel.app) | - | [Frontend](https://github.com/yashwanth535/kriya-frontend) | [Backend](https://github.com/yashwanth535/kriya-backend) |
+| 💰 **MoneyMind**         | A personal finance tracker with AI-based OCR receipt recognition.     | [moneymind.yashwanth.site](https://moneymind.yashwanth.site/) | [Vercel](https://moneymind-frontend.vercel.app) | - | [Frontend](https://github.com/yashwanth535/moneymind-frontend) | [Backend](https://github.com/yashwanth535/moneymind-backend) |
+| 🍽️ **FlavourFusion**     | Recipe app for discovering and sharing unique flavor combinations.    | [flavourfusion.yashwanth.site](https://flavourfusion.yashwanth.site/) | [Vercel](https://fusion-frontend-omega.vercel.app) | - | [Frontend](https://github.com/yashwanth535/Fusion-Frontend) | [Backend](https://github.com/yashwanth535/Fusion-Backend) |
+| 📋 **TeamSync**          | Collaborative project management tool with Kanban and Gantt charts.   | [teamsync.yashwanth.site](https://teamsync.yashwanth.site/) | — | - | [Frontend](https://github.com/yashwanth535/teamsync-frontend) | [Backend](https://github.com/yashwanth535/teamsync-backend) |
 
 ---
 
-  ### 🚀 Major Projects
-
-  | Project         | Description                                                               | Live Demo | Vercel Demo | Frontend Repo | Backend Repo |
-  |-----------------|---------------------------------------------------------------------------|-----------|--------------|----------------|---------------|
-  | 🖨️ **PRINTEASE**        | Realtime printing platform with order tracking and PDF management.     | [Live Demo](https://printease.yashwanth.site/) | [Vercel](https://print-ease-frontend.vercel.app) | [Frontend](https://github.com/yashwanth535/PrintEase-frontend) | [Backend](https://github.com/yashwanth535/PrintEase-backend) |
-  | 🔄 **InShareX**          | A secure file-sharing service like Send Anywhere.                      | [Live Demo](https://insharex.yashwanth.site/) | [Vercel](https://insharex-frontend.vercel.app) | [Frontend](https://github.com/yashwanth535/insharex-frontend) | [WebSocket](https://github.com/yashwanth535/insharex-webSocket) |
-  | 📊 **Kriya**             | Cron Job Manager for automation and workflow scheduling.              | [Live Demo](https://kriya.yashwanth.site/) | [Vercel](https://kriya-frontend-ten.vercel.app) | [Frontend](https://github.com/yashwanth535/kriya-frontend) | [Backend](https://github.com/yashwanth535/kriya-backend) |
-  | 💰 **MoneyMind**         | A personal finance tracker with AI-based OCR receipt recognition.     | [Live Demo](https://moneymind.yashwanth.site/) | [Vercel](https://moneymind-frontend.vercel.app) | [Frontend](https://github.com/yashwanth535/moneymind-frontend) | [Backend](https://github.com/yashwanth535/moneymind-backend) |
-  | 🍽️ **FlavourFusion**     | Recipe app for discovering and sharing unique flavor combinations.    | [Live Demo](https://flavourfusion.yashwanth.site/) | [Vercel](https://fusion-frontend-omega.vercel.app) | [Frontend](https://github.com/yashwanth535/Fusion-Frontend) | [Backend](https://github.com/yashwanth535/Fusion-Backend) |
-  | 📋 **TeamSync**          | Collaborative project management tool with Kanban and Gantt charts.   | [Live Demo](https://teamsync.yashwanth.site/) | — | [Frontend](https://github.com/yashwanth535/teamsync-frontend) | [Backend](https://github.com/yashwanth535/teamsync-backend) |
-
-  ---
 ### 🧪 Minor Projects
 
 | Project                 | Description                              | Live Demo | Vercel/Cloudflare | Frontend Repo |
