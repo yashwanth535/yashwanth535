@@ -19,12 +19,13 @@ I'm a curious developer who loves building creative, scalable, and impactful dig
 
 | Project         | Description                                                               | (Live)Own Domain | (Live)Vercel Domain | Docker Deployment | Frontend Repo | Backend Repo |
 |----------------|---------------------------------------------------------------------------|------------|--------------|--------------------|----------------|---------------|
+| 📋 **TeamSync(Current)**          | Collaborative project management tool with Kanban and Gantt charts.   | [link](https://teamsync.yashwanth.site/) | — | - | [Frontend](https://github.com/yashwanth535/teamsync-frontend) | [Backend](https://github.com/yashwanth535/teamsync-backend) |
 | 🖨️ **PRINTEASE**        | Realtime printing platform with order tracking, PDF management, and integrated payment gateway for payment.     | [link](https://printease.yashwanth.site/) | [Vercel](https://print-ease-frontend.vercel.app) | [Render](https://printease-docker-full-stack.onrender.com) | [Frontend](https://github.com/yashwanth535/PrintEase-frontend) | [Backend](https://github.com/yashwanth535/PrintEase-backend) |
 | 🔄 **InShareX**          | Secure file sharing via WebRTC, external resume button to resume stuck packets, and background worker for background downloads.                      | [link](https://insharex.yashwanth.site/) | [Vercel](https://insharex-frontend.vercel.app) | - | [Frontend](https://github.com/yashwanth535/insharex-frontend) | [WebSocket](https://github.com/yashwanth535/insharex-webSocket) |
-| 📊 **Kriya**             | Cron Job Manager for automation and workflow scheduling.              | [link](https://kriya.yashwanth.site/) | [Vercel](https://kriya-frontend-ten.vercel.app) | - | [Frontend](https://github.com/yashwanth535/kriya-frontend) | [Backend](https://github.com/yashwanth535/kriya-backend) |
-| 💰 **MoneyMind**         | A personal finance tracker with AI-based OCR receipt recognition.     | [link](https://moneymind.yashwanth.site/) | [Vercel](https://moneymind-frontend.vercel.app) | - | [Frontend](https://github.com/yashwanth535/moneymind-frontend) | [Backend](https://github.com/yashwanth535/moneymind-backend) |
 | 🍽️ **FlavourFusion**     | Recipe app for discovering and sharing unique flavor combinations.    | [link](https://flavourfusion.yashwanth.site/) | [Vercel](https://fusion-frontend-omega.vercel.app) | - | [Frontend](https://github.com/yashwanth535/Fusion-Frontend) | [Backend](https://github.com/yashwanth535/Fusion-Backend) |
-| 📋 **TeamSync**          | Collaborative project management tool with Kanban and Gantt charts.   | [link](https://teamsync.yashwanth.site/) | — | - | [Frontend](https://github.com/yashwanth535/teamsync-frontend) | [Backend](https://github.com/yashwanth535/teamsync-backend) |
+| 💰 **MoneyMind**         | A personal finance tracker with AI-based OCR receipt recognition.     | [link](https://moneymind.yashwanth.site/) | [Vercel](https://moneymind-frontend.vercel.app) | - | [Frontend](https://github.com/yashwanth535/moneymind-frontend) | [Backend](https://github.com/yashwanth535/moneymind-backend) |
+
+
 
 ---
 
@@ -32,6 +33,7 @@ I'm a curious developer who loves building creative, scalable, and impactful dig
 
 | Project                 | Description                              | Live Demo | Vercel/Cloudflare | Frontend Repo |
 |-------------------------|------------------------------------------|-----------|-------------------|----------------|
+| 📊 **Kriya**             | Cron Job Manager for automation and workflow scheduling.              | [link](https://kriya.yashwanth.site/) | [Vercel](https://kriya-frontend-ten.vercel.app) | - | [Frontend](https://github.com/yashwanth535/kriya-frontend) | [Backend](https://github.com/yashwanth535/kriya-backend) |
 | ☁️ **SkyWatch**          | Get real-time weather stats using APIs.   | [Live Demo](https://skywatch.yashwanth.site/) | [Vercel](https://skywatch.vercel.app) | [Repo](https://github.com/yashwanth535/skywatch) |
 | 🏥 **Dispensary Manager** | Prescription and patient record system.   | [Live Demo](https://dispensarymanagement.yashwanth.site/) | [Cloudflare](https://patient-prescription.pages.dev/) | [Repo](https://github.com/yashwanth535/patient-prescription) |
 
