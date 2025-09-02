@@ -7,7 +7,7 @@
 
 I'm a curious developer who loves building creative, scalable, and impactful digital solutions. From UI design to backend logic and cloud infrastructure — I enjoy every part of the process.
 
-- 🔭 Currently working on: [PRINTEASE](https://printease.yashwanth.site/) — A real-time PDF print order system with vendor management.
+- 🔭 Currently working on: [TEAMSYNC](https://github.com/yashwanth535/teamsync-frontend) — A Collaborative Project Management System.
 - 💼 Portfolio: [https://yashwanth.site](https://yashwanth.site)
 - 💬 Ask me about React, Node.js, MongoDB, UI/UX Design, and Web Automation.
 - 📖 Apart from coding, I love reading novels — my favorites include _"It Ends With Us"_ and _"It Starts With Us"_ by Colleen Hoover.
