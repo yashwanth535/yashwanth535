@@ -2,7 +2,8 @@
 <h3 align="center">A passionate full-stack developer and designer from India 🇮🇳</h3>
 
 ---
-
+<br><img src="assets/library.webp" height="500" width="800"/>
+</br>
 ### 🧠 About Me
 
 I'm a curious developer who loves building creative, scalable, and impactful digital solutions. From UI design to backend logic and cloud infrastructure — I enjoy every part of the process.
