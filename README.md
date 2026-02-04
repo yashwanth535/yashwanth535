@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full-stack developer and designer from India 🇮🇳</h3>
 
 ---
-<br><img src="assets/library.webp" height="500" width="800"/>
+<!-- <br><img src="assets/library.webp" height="500" width="800"/> -->
 </br>
 ### 🧠 About Me
 
@@ -18,14 +18,14 @@ I'm a curious developer who loves building creative, scalable, and impactful dig
 
 ### 🚀 Major Projects
 
-| Project | Description | (Live)Own Domain | (Live)Vercel Domain | Docker Deployment | Android APK | Frontend Repo | Backend Repo |
-|--------|-------------|------------------|----------------------|-------------------|-------------|----------------|---------------|
-| 🍽️ **SmartFeast** | Scan QR · Order Food | — | — | — | — | — | — |
-| 📋 **TeamSync(Current)** | Collaborative project management tool with Kanban and Gantt charts. | [link](https://teamsync.yashwanth.online/) |https://teamsync-frontend-theta.vercel.app| - | — | [Frontend](https://github.com/yashwanth535/teamsync-frontend) | [Backend](https://github.com/yashwanth535/teamsync-backend) |
-| 🖨️ **PRINTEASE** | Realtime printing platform with order tracking, PDF management, and integrated payment gateway for payment. | [link](https://printease.yashwanth.online/) | [Vercel](https://print-ease-frontend.vercel.app) | [Render](https://printease-docker-full-stack.onrender.com) | [APK](https://example.com/printease.apk) | [Frontend](https://github.com/yashwanth535/PrintEase-frontend) | [Backend](https://github.com/yashwanth535/PrintEase-backend) |
-| 🔄 **InShareX** | Secure file sharing via WebRTC, external resume button to resume stuck packets, and background worker for background downloads. | [link](https://insharex.yashwanth.online/) | [Vercel](https://insharex-frontend.vercel.app) | - | — | [Frontend](https://github.com/yashwanth535/insharex-frontend) | [WebSocket](https://github.com/yashwanth535/insharex-webSocket) |
-| 🍽️ **FlavourFusion** | Recipe app for discovering and sharing unique flavor combinations. | [link](https://flavourfusion.yashwanth.online/) | [Vercel](https://fusion-frontend-omega.vercel.app) | - | — | [Frontend](https://github.com/yashwanth535/Fusion-Frontend) | [Backend](https://github.com/yashwanth535/Fusion-Backend) |
-| 💰 **MoneyMind** | A personal finance tracker with AI-based OCR receipt recognition. | [link](https://moneymind.yashwanth.online/) | [Vercel](https://moneymind-frontend.vercel.app) | - | — | [Frontend](https://github.com/yashwanth535/moneymind-frontend) | [Backend](https://github.com/yashwanth535/moneymind-backend) |
+| Project | (Live)Own Domain | (Live)Vercel Domain | Docker Deployment | Android APK | Frontend Repo | Backend Repo |
+|--------|------------------|----------------------|-------------------|-------------|----------------|---------------|
+| 🍽️ **SmartFeast** | [link](https://smartfeast.yashwanth.online/) | [vercel](https://smartfeast-frontend.vercel.app/) | — | — | [Frontend](https://github.com/smartfeastt/Smartfeast-frontend) | [Backend](https://github.com/smartfeastt/Smartfeast-backend) |
+| 📋 **TeamSync(Current)** | [link](https://teamsync.yashwanth.online/) |[vercel](https://teamsync-frontend-theta.vercel.app)| - | — | [Frontend](https://github.com/yashwanth535/teamsync-frontend) | [Backend](https://github.com/yashwanth535/teamsync-backend) |
+| 🖨️ **PRINTEASE** | [link](https://printease.yashwanth.online/) | [Vercel](https://print-ease-frontend.vercel.app) | [Render](https://printease-docker-full-stack.onrender.com) | [APK](https://example.com/printease.apk) | [Frontend](https://github.com/yashwanth535/PrintEase-frontend) | [Backend](https://github.com/yashwanth535/PrintEase-backend) |
+| 🔄 **InShareX** | [link](https://insharex.yashwanth.online/) | [Vercel](https://insharex-frontend.vercel.app) | - | — | [Frontend](https://github.com/yashwanth535/insharex-frontend) | [WebSocket](https://github.com/yashwanth535/insharex-webSocket) |
+| 🍽️ **FlavourFusion** | [link](https://flavourfusion.yashwanth.online/) | [Vercel](https://fusion-frontend-omega.vercel.app) | - | — | [Frontend](https://github.com/yashwanth535/Fusion-Frontend) | [Backend](https://github.com/yashwanth535/Fusion-Backend) |
+| 💰 **MoneyMind** | [link](https://moneymind.yashwanth.online/) | [Vercel](https://moneymind-frontend.vercel.app) | - | — | [Frontend](https://github.com/yashwanth535/moneymind-frontend) | [Backend](https://github.com/yashwanth535/moneymind-backend) |
 
 
 ---
@@ -58,23 +58,41 @@ I'm a curious developer who loves building creative, scalable, and impactful dig
 
 ---
 
-### 🛠️ Languages & Tools
+### 🧑‍💻 Languages
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+</p>
+
+---
+
+### ⚙️ Frameworks
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Native" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
+</p>
+
+---
+
+### 🛠️ Tools & Platforms
+
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
-<!--   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/> -->
-<!--   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle DB" width="40" height="40"/> -->
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud Platform" width="40" height="40"/>
 </p>
+
 
 ---
 
